@@ -1,0 +1,5 @@
+C:\Users\Sena\Documents\DCMotaot\Interfaz Automovil\obj\Debug\net6.0\Interfaz Automovil..csproj.AssemblyReference.cache
+C:\Users\Sena\Documents\DCMotaot\Interfaz Automovil\obj\Debug\net6.0\Interfaz Automovil..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\Documents\DCMotaot\Interfaz Automovil\obj\Debug\net6.0\Interfaz Automovil..AssemblyInfoInputs.cache
+C:\Users\Sena\Documents\DCMotaot\Interfaz Automovil\obj\Debug\net6.0\Interfaz Automovil..AssemblyInfo.cs
+C:\Users\Sena\Documents\DCMotaot\Interfaz Automovil\obj\Debug\net6.0\Interfaz Automovil..csproj.CoreCompileInputs.cache
